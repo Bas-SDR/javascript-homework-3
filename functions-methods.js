@@ -67,6 +67,3 @@ console.log(checkEmailValidity("tessmellink@novi.nl"));
 console.log(checkEmailValidity("n.eekenanovi.nl"));
 console.log(checkEmailValidity("n.eeken@novinl."));
 console.log(checkEmailValidity("tessmellink@novi,nl"));
-
-
-
